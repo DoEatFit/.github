@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="480" height="480" alt="logo" src="https://github.com/user-attachments/assets/4ff9ff1f-58bf-4e93-8331-db269bfefec7" />
+  <img width="120" height="120" alt="logo" src="https://github.com/user-attachments/assets/4ff9ff1f-58bf-4e93-8331-db269bfefec7" />
   <h1><strong>Welcome to the DoEatFit!</strong></h1>
   <p><strong>건강한 식단과 운동 습관을 위한 당신의 건강 파트너, DoEatFit에 오신 것을 환영합니다.</strong></p>
   <p>
