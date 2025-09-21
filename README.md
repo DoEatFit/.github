@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x300.png?text=DoEatFit+%7C+%EB%8B%B9%EC%8B%A0%EC%9D%98+%EA%B1%B4%EA%B0%95+%ED%8C%8C%ED%8A%B8%EB%84%88" alt="DoEatFit Banner">
+  <img width="480" height="480" alt="logo" src="https://github.com/user-attachments/assets/4ff9ff1f-58bf-4e93-8331-db269bfefec7" />
   <h1><strong>Welcome to the DoEatFit!</strong></h1>
   <p><strong>건강한 식단과 운동 습관을 위한 당신의 건강 파트너, DoEatFit에 오신 것을 환영합니다.</strong></p>
   <p>
@@ -42,7 +42,7 @@ DoEatFit 프로젝트를 함께 만들어가는 팀원들을 소개합니다.
 
 ## 🏗️ 아키텍처 (Architecture)
 
-DoEatFit은 **MSA (Microservices Architecture)** 는 아니지만, 역할과 책임에 따라 명확하게 분리된 **Frontend**와 **Backend** 레포지토리로 구성되어 있습니다.
+DoEatFit은 역할과 책임에 따라 명확하게 분리된 **Frontend**와 **Backend** 레포지토리로 구성되어 있습니다.
 
 | Repository                                                                  | Description                                                                                                                                |
 | :-------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- |
