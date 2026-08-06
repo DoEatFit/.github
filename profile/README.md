@@ -4,8 +4,7 @@
   <p><strong>건강한 식단과 운동 습관을 위한 당신의 건강 파트너, DoEatFit에 오신 것을 환영합니다.</strong></p>
   <p>
     <a href="https://github.com/DoEatFit/doeatfit_front"><strong>🚀 Frontend</strong></a> |
-    <a href="https://github.com/DoEatFit/doeatfit_back"><strong>⚙️ Backend</strong></a> |
-    <a href="https://ericna.notion.site/DO-EAT-FIT-1cc3a79554444bef946773612f60bc4f"><strong>📚 Project Notion</strong></a>
+    <a href="https://github.com/DoEatFit/doeatfit_back"><strong>⚙️ Backend</strong></a>
   </p>
 </div>
 
