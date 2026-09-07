@@ -22,6 +22,7 @@ Closes DoEatFit/project_management#
 
 - [ ] 로컬에서 동작/내용 확인
 - [ ] 관련 테스트 추가·갱신 및 통과 (코드 변경 시)
+- [ ] 본문을 한국어 교정 스킬(plain-korean → humanizer → grammar-checker → style-guide)로 다듬었다 — Claude Code 는 훅이 검사하고, 직접 쓴 본문은 CI 경고를 확인
 
 ## 스크린샷 (UI 변경 시)
 
